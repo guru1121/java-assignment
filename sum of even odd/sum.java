@@ -1,8 +1,8 @@
 
 class sum {
     public static void main(String[] args) {
-        int[] arr = { 5, 8, 7, 9, 1, 3, 2 };
-        int n = arr.length - 1;
+        int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8 };
+        int n = arr.length;
         int E_sum = 0, O_sum = 0;
 
         for (int i = 0; i < n; i++) {
